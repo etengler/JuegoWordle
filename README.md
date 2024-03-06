@@ -1,6 +1,10 @@
 # JUEGO WORDLE
 
-El objetivo es adivinar la palabra secreta de 5 letras. Tenés 6 intentos para lograrlo! 
+Trabajo práctico N°1 de la materia Informatica III - UNGS
+
+# Objetivo
+
+El objetivo del juego es adivinar la palabra secreta de 5 letras. Tenés 6 intentos para lograrlo! 
 
 • Si la letra no está en la palabra, se marca en gris. 
 
